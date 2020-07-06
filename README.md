@@ -137,7 +137,7 @@ http://www.oreilly.com/programming/free/files/microservices-in-production.mobi</
 ### Developing Reactive Microservices: Enterprise Implementation in Java
 https://info.lightbend.com/rs/558-NCX-702/images/COLL-ebook-Developing_Reactive_Microservices.pdf</br>
 https://info.lightbend.com/rs/558-NCX-702/images/COLL-ebook-Developing_Reactive_Microservices.epub</br>
-https://info.lightbend.com/rs/558-NCX-702/images/COLL-ebook-Developing_Reactive_Microservices.epub</br>
+https://info.lightbend.com/rs/558-NCX-702/images/COLL-ebook-Developing_Reactive_Microservices.mobi</br>
 ### Microservices AntiPatterns and Pitfalls
 http://www.oreilly.com/programming/free/files/microservices-antipatterns-and-pitfalls.pdf</br>
 http://www.oreilly.com/programming/free/files/microservices-antipatterns-and-pitfalls.epub</br>
