@@ -1,9 +1,8 @@
 # Free-OReilly-Books updated for 2020 and added some lacking ones
 
-Total of 547 files
+\# Total of 547 files
 
-After downloading, rename them all using the `renameoreillys.sh` script
-Free O'Reilly Books
+\# After downloading, rename them all using the `renameoreillys.sh` script
 
 ## From theme: Programming
 ### Microservices for Java Developers: A Hands-On Introduction to Frameworks and Containers
