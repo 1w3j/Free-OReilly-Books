@@ -138,9 +138,9 @@ https://www.oreilly.com/programming/free/files/microservices-in-production.pdf</
 https://www.oreilly.com/programming/free/files/microservices-in-production.epub</br>
 https://www.oreilly.com/programming/free/files/microservices-in-production.mobi</br>
 ### Developing Reactive Microservices: Enterprise Implementation in Java
-httpss://info.lightbend.com/rs/558-NCX-702/images/COLL-ebook-Developing_Reactive_Microservices.pdf</br>
-httpss://info.lightbend.com/rs/558-NCX-702/images/COLL-ebook-Developing_Reactive_Microservices.epub</br>
-httpss://info.lightbend.com/rs/558-NCX-702/images/COLL-ebook-Developing_Reactive_Microservices.mobi</br>
+https://info.lightbend.com/rs/558-NCX-702/images/COLL-ebook-Developing_Reactive_Microservices.pdf</br>
+https://info.lightbend.com/rs/558-NCX-702/images/COLL-ebook-Developing_Reactive_Microservices.epub</br>
+https://info.lightbend.com/rs/558-NCX-702/images/COLL-ebook-Developing_Reactive_Microservices.mobi</br>
 ### Microservices AntiPatterns and Pitfalls
 https://www.oreilly.com/programming/free/files/microservices-antipatterns-and-pitfalls.pdf</br>
 https://www.oreilly.com/programming/free/files/microservices-antipatterns-and-pitfalls.epub</br>
@@ -755,4 +755,4 @@ https://www.oreilly.com/business/free/files/whats-the-future-of-work.pdf</br>
 https://www.oreilly.com/business/free/files/whats-the-future-of-work.epub</br>
 https://www.oreilly.com/business/free/files/whats-the-future-of-work.mobi</br>
 ### Prototype to Product: A Practical Guide to Getting to Market
-httpss://cdn.oreillystatic.com/pdf/Prototype_to_Product.pdf</br>
+https://cdn.oreillystatic.com/pdf/Prototype_to_Product.pdf</br>
