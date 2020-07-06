@@ -530,10 +530,6 @@ http://www.oreilly.com/webops-perf/free/files/immutable-infrastructure.mobi</br>
 http://www.oreilly.com/webops-perf/free/files/continuous-delivery-with-windows-and-net.pdf</br>
 http://www.oreilly.com/webops-perf/free/files/continuous-delivery-with-windows-and-net.epub</br>
 http://www.oreilly.com/webops-perf/free/files/continuous-delivery-with-windows-and-net.mobi</br>
-### Docker Security: Using Containers Safely in Production
-http://www.oreilly.com/webops-perf/free/files/docker-security.pdf</br>
-http://www.oreilly.com/webops-perf/free/files/docker-security.epub</br>
-http://www.oreilly.com/webops-perf/free/files/docker-security.mobi</br>
 ### Kubernetes: Scheduling the Future at Cloud Scale
 http://www.oreilly.com/webops-perf/free/files/kubernetes.pdf</br>
 http://www.oreilly.com/webops-perf/free/files/kubernetes.epub</br>
@@ -702,10 +698,6 @@ http://www.oreilly.com/webops-perf/free/files/cracking-security-misconceptions.m
 http://www.oreilly.com/webops-perf/free/files/patrolling-the-dark-net.pdf</br>
 http://www.oreilly.com/webops-perf/free/files/patrolling-the-dark-net.epub</br>
 http://www.oreilly.com/webops-perf/free/files/patrolling-the-dark-net.mobi</br>
-### DevOpsSec: Securing Software through Continuous Delivery
-http://www.oreilly.com/webops-perf/free/files/devopssec.pdf</br>
-http://www.oreilly.com/webops-perf/free/files/devopssec.epub</br>
-http://www.oreilly.com/webops-perf/free/files/devopssec.mobi</br>
 ### Not All Data Is Created Equal: Balancing Risk and Reward in a Data-Driven Economy
 http://www.oreilly.com/security/free/files/not-all-data-is-created-equal.pdf</br>
 http://www.oreilly.com/security/free/files/not-all-data-is-created-equal.epub</br>
