@@ -1,5 +1,7 @@
-# Free-OReilly-Books
-Free O Reilly Books
+# Free-OReilly-Books updated for 2020 and added some lacking ones
+
+After downloading, rename them all using the `renameoreillys.sh` script
+Free O'Reilly Books
 
 ## From theme: Programming
 ### Microservices for Java Developers: A Hands-On Introduction to Frameworks and Containers
