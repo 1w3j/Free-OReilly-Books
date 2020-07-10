@@ -5,6 +5,10 @@
 \# After downloading, rename them all using the `renameoreillys.sh` script
 
 ## From theme: Programming
+### Improving Code Quality: A Survey of Tools, Trends, and Habits Across Software Organizations
+https://www.oreilly.com/programming/free/files/microservices-for-java-developers.pdf</br>
+https://www.oreilly.com/programming/free/files/microservices-for-java-developers.epub</br>
+https://www.oreilly.com/programming/free/files/microservices-for-java-developers.mobi</br>
 ### Microservices for Java Developers: A Hands-On Introduction to Frameworks and Containers
 https://www.oreilly.com/programming/free/files/microservices-for-java-developers.pdf</br>
 https://www.oreilly.com/programming/free/files/microservices-for-java-developers.epub</br>
