@@ -6,9 +6,9 @@
 
 ## From theme: Programming
 ### Improving Code Quality: A Survey of Tools, Trends, and Habits Across Software Organizations
-https://www.oreilly.com/programming/free/files/microservices-for-java-developers.pdf</br>
-https://www.oreilly.com/programming/free/files/microservices-for-java-developers.epub</br>
-https://www.oreilly.com/programming/free/files/microservices-for-java-developers.mobi</br>
+https://www.oreilly.com/programming/free/files/improving-code-quality.pdf</br>
+https://www.oreilly.com/programming/free/files/improving-code-quality.epub</br>
+https://www.oreilly.com/programming/free/files/improving-code-quality.mobi</br>
 ### Microservices for Java Developers: A Hands-On Introduction to Frameworks and Containers
 https://www.oreilly.com/programming/free/files/microservices-for-java-developers.pdf</br>
 https://www.oreilly.com/programming/free/files/microservices-for-java-developers.epub</br>

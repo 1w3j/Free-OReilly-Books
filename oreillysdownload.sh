@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 echo Checking number of files to be downloaded...
-readmemd=$(curl -fsSL https://github.com/1992s/Free-OReilly-Books/raw/master/README.md)
+readmemd=$(curl -fsSL https://raw.githubusercontent.com/1w3j/Free-OReilly-Books/master/README.md)
 books_list=$( echo ${readmemd} | grep -e '\.pdf' -e '\.epub' -e '\.mobi'  | sed -e 's/<\/br>//')
 qty=$(echo ${books_list} | wc -l)
 titles=$(echo ${readmemd} | grep '###' -c)
