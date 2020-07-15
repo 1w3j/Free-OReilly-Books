@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/usr/bin/env zsh
 
 downloaded_dir_path="<edit this path>"
 oreilly_list=$(curl -fsSL https://raw.githubusercontent.com/1w3j/Free-OReilly-Books/master/README.md)

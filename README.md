@@ -1,6 +1,6 @@
 # Free-OReilly-Books updated for 2020 and added some lacking ones
 
-\# Total of 548 files
+\# Total of 551 files
 
 \# After downloading, rename them all using the `renameoreillys.sh` script
 
