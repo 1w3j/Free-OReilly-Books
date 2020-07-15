@@ -1,6 +1,6 @@
 # Free-OReilly-Books updated for 2020 and added some lacking ones
 
-\# Total of 547 files
+\# Total of 548 files
 
 \# After downloading, rename them all using the `renameoreillys.sh` script
 
@@ -541,6 +541,8 @@ https://www.oreilly.com/webops-perf/free/files/continuous-delivery-with-windows-
 https://www.oreilly.com/webops-perf/free/files/kubernetes.pdf</br>
 https://www.oreilly.com/webops-perf/free/files/kubernetes.epub</br>
 https://www.oreilly.com/webops-perf/free/files/kubernetes.mobi</br>
+### Kubernetes: Scheduling the Future at Cloud Scale with Compliments of OpenShift
+https://assets.openshift.com/hubfs/pdfs/Kubernetes_OpenShift.pdf</br>
 ### Modern Web Operations: A Curated Collection of Chapters from the O'Reilly Operations Library
 https://www.oreilly.com/webops-perf/free/files/modern-web-operations.pdf</br>
 ### Field Guide to the Distributed Development Stack
