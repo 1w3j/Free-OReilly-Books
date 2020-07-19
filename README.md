@@ -1,6 +1,6 @@
 # Free-OReilly-Books updated for 2020 and added some lacking ones
 
-\# Total of 566 files
+\# Total of 567 files
 
 \# After downloading, rename them all using the `renameoreillys.sh` script
 
@@ -710,6 +710,8 @@ https://www.oreilly.com/webops-perf/free/files/HTTP2-high-perf-browser-networkin
 https://www.oreilly.com/webops-perf/free/files/compliance-at-speed.pdf</br>
 https://www.oreilly.com/webops-perf/free/files/compliance-at-speed.epub</br>
 https://www.oreilly.com/webops-perf/free/files/compliance-at-speed.mobi</br>
+### The Problem with Native JavaScript APIs External JavaScript Libraries Still Matter
+https://get.oreilly.com/rs/107-FMS-070/images/The-Problem-with-Native-JavaScript-APIs.pdf</br>
 ## From theme: Security
 ### Security and Frontend Performance: Breaking the Conundrum
 https://www.oreilly.com/webops-perf/free/files/security-and-frontend-performance.pdf</br>
