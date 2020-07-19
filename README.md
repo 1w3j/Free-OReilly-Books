@@ -1,6 +1,6 @@
 # Free-OReilly-Books updated for 2020 and added some lacking ones
 
-\# Total of 551 files
+\# Total of 566 files
 
 \# After downloading, rename them all using the `renameoreillys.sh` script
 
@@ -484,6 +484,26 @@ https://www.oreilly.com/data/free/files/getting-analytics-right.mobi</br>
 https://www.oreilly.com/data/free/files/data-science-banking-and-fintech.pdf</br>
 https://www.oreilly.com/data/free/files/data-science-banking-and-fintech.epub</br>
 https://www.oreilly.com/data/free/files/data-science-banking-and-fintech.mobi</br>
+### Building Data Science Teams: The Skills, Tools, and Perspectives Behind Great Data Science Groups
+https://www.oreilly.com/data/free/files/building-data-science-teams.pdf</br>
+https://www.oreilly.com/data/free/files/building-data-science-teams.epub</br>
+https://www.oreilly.com/data/free/files/building-data-science-teams.mobi</br>
+### 2013 Data Science Salary Survey: Tools, Trends, What Pays (and What Doesn’t) for Data Professionals
+https://www.oreilly.com/data/free/files/stratasurvey.pdf</br>
+https://www.oreilly.com/data/free/files/stratasurvey.mobi</br>
+https://www.oreilly.com/data/free/files/stratasurvey.epub</br>
+### Analyzing the Analyzers: An Introspective Survey of Data Scientists and Their Work 2nd Edition
+https://www.oreilly.com/data/free/files/analyzing-the-analyzers.pdf</br>
+https://www.oreilly.com/data/free/files/analyzing-the-analyzers.epub</br>
+https://www.oreilly.com/data/free/files/analyzing-the-analyzers.mobi</br>
+### Data Jujitsu: The Art of Turning Data Into Product
+https://www.oreilly.com/data/free/files/data-jujitsu.pdf</br>
+https://www.oreilly.com/data/free/files/data-jujitsu.epub</br>
+https://www.oreilly.com/data/free/files/data-jujitsu.mobi</br>
+### Data Driven: Creating a Data Culture
+https://www.oreilly.com/data/free/files/data-driven.pdf</br>
+https://www.oreilly.com/data/free/files/data-driven.epub</br>
+https://www.oreilly.com/data/free/files/data-driven.mobi</br>
 ## From theme: Webops
 ### Serverless Ops: A Beginner's Guide to AWS Lambda and Beyond
 https://www.oreilly.com/webops-perf/free/files/serverless-ops.pdf</br>
